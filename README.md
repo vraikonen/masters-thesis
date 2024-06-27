@@ -21,7 +21,7 @@ The datasets included in this repository within `dataset` folder are:
 2. Geoparsed posts - without any reference to the original posts, as some platforms prohibit sharing retrieved posts publicly.
 
 
-Query parameters available [here](link_to_thesis), and respective crawlers: [Telegram Crawler](https://github.com/vraikonen/telegram-crawler), [Reddit Crawler](https://github.com/vraikonen/reddit-crawler), [Tiktok Crawler](https://github.com/vraikonen/tiktok-crawler) and [Mastodon Crawler](https://github.com/vraikonen/mastodon-crawler). Twitter dataset was obtained by querying private Twitter archive obtained by Twitter Streaming API and owned by [Geosocial Analytics Lab](https://geosocial.at/). 
+Query parameters available [here](link_to_thesis), and respective crawlers: [Telegram Crawler](https://github.com/vraikonen/telegram-crawler), [Reddit Crawler](https://github.com/vraikonen/reddit-crawler), [Tiktok Crawler](https://github.com/vraikonen/tiktok-crawler) and [Mastodon Crawler](https://github.com/vraikonen/mastodon-crawler). Twitter dataset was obtained by querying private Twitter archive obtained via Twitter Streaming API and owned by [Geosocial Analytics Lab](https://geosocial.at/). 
 
 
 **__Note:__** Due to privacy and ethical considerations, the raw data from social media cannot be shared publicly. However, anonymized datasets or post IDs used in the analysis can be provided in accordance with the terms and conditions specific for each of the social media platforms.
